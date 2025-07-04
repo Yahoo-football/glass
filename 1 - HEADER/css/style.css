@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+    font-size:24px;
+    color:white;
+}
+nav{
+    display:flex; 
+    background-color: black;
+    justify-content:space-between
+}
+.nav-left{
+    
+    padding:16px 100px 16px 50px;
+    display: flex;
+    list-style: none;
+}
+.nav-right{
+
+    padding: 16px 50px;
+    display:flex;
+    list-style:none;
+}
+a{
+    text-decoration: none;
+    margin-left:50px;
+}

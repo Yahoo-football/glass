@@ -35,6 +35,8 @@ section{
     background: #e4e4e4;
     padding:24px;
     flex-basis: 100%;
+}
+section h3{
     color:black;
 }
 aside{
